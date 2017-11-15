@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Not Tetris For Legal Reasons.unity
+  isLoaded: 1
+  isActive: 1
